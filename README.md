@@ -1,14 +1,14 @@
 # Snappy Triggers by Alexander Shemaly
 
-Snappy Triggers is a fast-pased 2D shooter game where the objective is to shoot down as many enemies as possible within the time limit.
-At each round, different enemies will spawn on the screen and shooting them will earn you different number of points.
+Snappy Triggers is a fast-paced 2D shooter game where the objective is to shoot down as many enemies as possible within the time limit.
+At each round, different enemies will spawn on the screen and shooting them will earn you a different number of points.
 There are three rounds, each with their own different enemies and themes. Plus, a challenging boss round, where the enemies can also take down the player.
 
 **What your best highscore?**
 
 _Available to play on PC_
 
-Game written in Python 3.9 and uses the Pygame framework. Made in 2020
+Game written in Python 3.6 and uses the Pygame framework. Made in 2020
 
 **Copyright**<br>
 Shooting Range - https://www.euseca.com/esa-campus/<br>
