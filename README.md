@@ -1,1 +1,1 @@
-# snappy-triggers
+# Snappy Triggers by Alexander Shemaly
